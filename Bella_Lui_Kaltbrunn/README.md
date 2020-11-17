@@ -40,7 +40,7 @@ To know more about ERT, please follow their website [here](https://epflrockettea
       Jupyter notebook where the flight simulation was performed.
       The initial cells regarding the google drive mouting can be ignored.
     
-- README_Bella_Lui.md :
+- README.md :
     
       Markdown file describing the contents in the present folder
 
