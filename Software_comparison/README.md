@@ -33,4 +33,4 @@ Valetudo is a high power rocket built by Projeto Jupiter in 2019 and [launched a
 The propulsion system was composed by a SRAD KNSB 65-35 class K motor (**Keron**), which was developed and tested multiple times by the team.
 
 ### Picture or render of the Rocket:
-<img src="https://raw.githubusercontent.com/Projeto-Jupiter/RocketPaper/main/Software_comparison/photos/Valetudo_the_best.jpg?token=APFE6WNML4KAWDS36Z7H6RC7WWDY4" height="480" align="center">
+<img src="https://raw.githubusercontent.com/Projeto-Jupiter/RocketPaper/main/Software_comparison/photos/Valetudo_the_best.jpg?token=APFE6WN4U5M6QXXTJYLIK2S7WWHCO" height="480" align="center">
