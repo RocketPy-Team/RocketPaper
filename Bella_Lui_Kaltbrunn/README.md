@@ -1,3 +1,6 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Projeto-Jupiter/RocketPaper/blob/main/Bella_Lui_Kaltbrunn/Kaltbrunn_simulation.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Projeto-Jupiter/RocketPaper/main?filepath=Bella_Lui_Kaltbrunn%2FKaltbrunn_simulation.ipynb)
+
 ## Bella_Lui_Kaltbrunn
 The contents in this folder regard the comparison between RocketPy's simulations and real flight data.
 The rocket analyzed here is the Bella Lui, a launch vehicle build by the EPFL Rocket Team (ERT) launched in 2020, in Switzerland. 
@@ -40,7 +43,6 @@ To know more about ERT, please follow their website [here](https://epflrockettea
 
       Jupyter notebook where the flight simulation was performed.
       The initial cells regarding the google drive mouting can be ignored.
-      In the future, authors may change some lines to include integration with google collab directly from Github.
     
 - README.md :
     
@@ -52,4 +54,4 @@ Since that date, several missions were performed by making some adjustments in t
 One of this misson was the lauch of 22th february 2020 in Kaltbrunn (SWI). Kaltbrunn is actually a municipality in Switzerland.
 
 ### Picture or render of the Rocket:
-- ~Optional~
+<img src="https://epflrocketteam.ch/wp-content/uploads/2020/03/Render-Bella-Lui-1-e1583335149818-1.jpg" height="720">
