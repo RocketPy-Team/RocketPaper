@@ -1,4 +1,6 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Projeto-Jupiter/RocketPaper/blob/main/NDRT_2020_launch_vehicle/NDRT_ROCKETPY.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Projeto-Jupiter/RocketPaper/main?filepath=NDRT_2020_launch_vehicle%2FNDRT_ROCKETPY.ipynb)
+
 
 ## 2020 NDRT Launch vehicle
 The contents in this folder regard the comparison between RocketPy's simulations and real flight data.
@@ -39,9 +41,7 @@ To know more about NDRT, please follow their website [here](https://ndrocketry.w
       Fourth column: Time (s) - Time in seconds
       Fifth column : Altitude (Ft-AGL)- Vertical position (altitude), in feet, measured during the flight
       Sixth column : bILBA - useless
-      Max velocity at row: 
-      Apogee at row: 
-      Impact at row:     
+      Apogee at row: 343
 
 ## More about the 2020 NDRT Launch vehicle:
 The launch vehicle is 134 in. long with a loaded mass of 798 oz. The final motor choice is a Cesaroni L1395, which will allow the vehicle to attain the target altitude of 4,444 ft after launching from a 12 ft 1515 rail. The drogue parachute is a FruityChute CFC-24 and will deploy at apogee, and at 600 ft. the main parachute, a FruityChute Iris Ultra 120 Compact, will deploy. (NOTRE DAME ROCKETRY TEAM FLIGHT READINESS REVIEW)
