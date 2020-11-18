@@ -3,10 +3,6 @@
 The present folder regards the Valetudo flight simulations performed with [Cambridge Rocketry Simulator](http://cambridgerocket.sourceforge.net/). The version 3.1 of this open-source software was used.
 For this analysis, authors has used the Monte Carlo method available in the Cambridge Rocketry Simulator, and a number of 3000 simulations was chosen.
 
-
-- Need to add the file: "valetudo_3000_simulations" !!! LARGE FILE ALERT 
-
-
 ## Files description:
 
 - README.md :
@@ -34,6 +30,11 @@ For this analysis, authors has used the Monte Carlo method available in the Camb
 - mean_trajectory_3000_simulations.png : 
 
       Picture of the mean trajectory created using the Cambridge software.
+      
+- valetudo_3000simulations.csv : 
+
+      Flight simulations exported using the Cambridge software interface.
+      All the 3000 simulations were exported and are presented in sequentially in the .csv file.
 
 - valetudo_ensemble_mean.xml : 
 
