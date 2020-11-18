@@ -47,6 +47,11 @@ To know more about ERT, please follow their website [here](https://epflrockettea
 - README.md :
     
       Markdown file describing the contents in the present folder
+      
+- environment.nc :
+
+      File containing all the atmospheric details used in the flight simulation.
+     This files was dowloaded from the following website: [copernicus](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-pressure-levels?tab=form)
 
 ## More about the Bella Lui Kaltbrunn mission:
 Bella Lui is a modern and robust rocket made by the EPFL Rocket Team (ERT) in 2019.
