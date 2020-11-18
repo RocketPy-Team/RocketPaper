@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Projeto-Jupiter/RocketPaper/blob/main/NDRT_2020_launch_vehicle/NDRT_ROCKETPY.ipynb)
+
 ## 2020 NDRT Launch vehicle
 The contents in this folder regard the comparison between RocketPy's simulations and real flight data.
 The rocket analyzed here is the 2020 NDRT Launch vehicle, build by the Notre Dame Rocketry Team (NDRT) and launched in 2020, in The United States (Michigan). 
@@ -18,7 +20,6 @@ To know more about NDRT, please follow their website [here](https://ndrocketry.w
 
       Jupyter notebook where the flight simulation was performed.
       The initial cells regarding the google drive mouting can be ignored.
-      In the future, authors may change some lines to include integration with google collab directly from Github.
       
 - README.md :
     
@@ -43,7 +44,7 @@ To know more about NDRT, please follow their website [here](https://ndrocketry.w
       Impact at row:     
 
 ## More about the 2020 NDRT Launch vehicle:
-
+The launch vehicle is 134 in. long with a loaded mass of 798 oz. The final motor choice is a Cesaroni L1395, which will allow the vehicle to attain the target altitude of 4,444 ft after launching from a 12 ft 1515 rail. The drogue parachute is a FruityChute CFC-24 and will deploy at apogee, and at 600 ft. the main parachute, a FruityChute Iris Ultra 120 Compact, will deploy. (NOTRE DAME ROCKETRY TEAM FLIGHT READINESS REVIEW)
 
 ### Picture or render of the Rocket:
-- Optional
+![alt text](https://ndrocketry.weebly.com/uploads/1/3/2/4/132422406/published/output-onlinepngtools-3.png?1592450602)
