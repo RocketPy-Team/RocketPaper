@@ -33,9 +33,10 @@ For this analysis, authors has used the Monte Carlo method available in the Camb
 
 - mean_trajectory_3000_simulations.png : 
 
-      Picture of the mean trajectory created using the Cambridge software
+      Picture of the mean trajectory created using the Cambridge software.
 
 - valetudo_ensemble_mean.xml : 
 
-      File containing the 
+      File containing the atmospheric details used in the flight simulations.
+      It was generated with the help of classes Function and Environmente from RocketPy.
 
