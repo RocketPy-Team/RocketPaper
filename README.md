@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4279967.svg)](https://doi.org/10.5281/zenodo.4279967)
+
 # RocketPaper
 This repository keeps all the data used for the article **RocketPy: A Six Degree-of-freedom launch vehicle trajectory simulator**, an article that has been submitted ~published~ to the Journal of Aeroespace Engeneering at xx/xx/20xx.
 
