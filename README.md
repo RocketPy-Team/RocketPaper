@@ -8,7 +8,7 @@ The main objective of **RocketPaper** is to allow for future readers of the arti
 
 ### Authors:
 [Giovani Hidalgo Ceotto](https://orcid.org/0000-0002-1614-3028), 
-Rodrigo Nascente Schmitt, 
+[Rodrigo Nascente Schmitt](https://orcid.org/0000-0001-7047-1092), 
 [Guilherme Fernandes Alves](https://orcid.org/0000-0003-3873-2699), 
 Lucas Azevedo Pezente, 
 Prof. [Bruno Souza Carmo](https://orcid.org/0000-0002-2486-7026).
