@@ -35,6 +35,10 @@ The software version 0.9.6 was used, and the simulations presented here include 
       At center is the launch pad location.
       The red circle has its radius equals to 1km.
 
+- environment_valetudo.ipynb :
+      
+      Jupyter notebook used to create plots regarding the Atmospheric conditions used in the paper.
+
 - valetudo_ROCKETPY_CFD.csv :
 
       Data exported from rocketpy's main simulation.
@@ -46,4 +50,8 @@ The software version 0.9.6 was used, and the simulations presented here include 
 - valetudo_reanalysis.valetudo_disp_out.txt :
 
       The ouput of each simulation performed for the Monte Carlo analysis.
+      
+- valetudo_weather_atmospheric_new.pdf  and  valetudo_weather_ensemble_new.pdf:
+
+      Plots created using the 'environment_valetudo.ipynb' jupyter notebook
       
