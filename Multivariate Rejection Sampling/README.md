@@ -16,7 +16,7 @@ The main benefit of MRS is being able to get new Monte Carlo results in a fracti
 
       Markdown file describing the contents in the present folder.
 
-- MRS_results.pdf :
+- MRS_results_v1.pdf :
 
       Resulting PDF image of an MRS calculation.
       
@@ -25,12 +25,6 @@ The main benefit of MRS is being able to get new Monte Carlo results in a fracti
       Jupyter notebook used for the MRS calculation example.
       The badge "Open in Colab" is recommended to run this file.
 
-- valetudo_reanalysis.valetudo_disp_out.txt :
+- all_members_mrs_test/, all_members_orginal/, ensemble_member_4_mrs_test/, ensemble_member_4_original/, ensemble_member_comparison/ :
 
-      Monte Carlos Analysis inputs for the Valetudo rocket. This is used by the MRS example.
-
-- valetudo_reanalysis.valetudo_disp_out.txt :
-
-      Monte Carlos Analysis ouputs for the Valetudo rocket. This is used by the MRS example.
-
-
+      Monte Carlos Analysis inputs and outputs for the Valetudo rocket. This is used by the MRS example.
