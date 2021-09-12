@@ -6,14 +6,14 @@ This repository holds all the data used for the article **[RocketPy: A Six Degre
 
 ### How to cite the paper: 
     @article{ceotto_schmitt_alves_pezente_carmo_2021, 
-    title={RocketPy: Six Degree-of-Freedom Rocket Trajectory Simulator}, 
-    volume={34}, 
-    DOI={10.1061/(asce)as.1943-5525.0001331}, 
-    number={6}, 
-    journal={Journal of Aerospace Engineering}, 
-    author={Ceotto, Giovani H. and Schmitt, Rodrigo N. and Alves, Guilherme F. and Pezente, Lucas A. and Carmo, Bruno S.}, 
-    year={2021}, 
-    month={Aug}}
+        title={RocketPy: Six Degree-of-Freedom Rocket Trajectory Simulator}, 
+        volume={34}, 
+        DOI={10.1061/(asce)as.1943-5525.0001331}, 
+        number={6}, 
+        journal={Journal of Aerospace Engineering}, 
+        author={Ceotto, Giovani H. and Schmitt, Rodrigo N. and Alves, Guilherme F. and Pezente, Lucas A. and Carmo, Bruno S.}, 
+        year={2021}, 
+        month={Aug}}
 
 ### Authors
 [Giovani Hidalgo Ceotto](https://orcid.org/0000-0002-1614-3028), 
